@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/Nagisa/packages/ros_manager/devel -DCMAKE_INSTALL_PREFIX=/home/Nagisa/packages/ros_manager/install -G Unix Makefiles

@@ -1,0 +1,32 @@
+%YAML:1.0
+---
+type: IMU
+name: Mid360_imu
+Gyr:
+   unit: "gyr_n: rad / sqrt(s), gyr_w: rad / s^2 / sqrt(Hz)"
+   avg-axis:
+      gyr_n: 1.1802128957193009e-04
+      gyr_w: 1.1150404445099923e-06
+   x-axis:
+      gyr_n: 2.4740213456655020e-04
+      gyr_w: 1.1296937535206776e-07
+   y-axis:
+      gyr_n: 6.3089338938626560e-05
+      gyr_w: 3.2295278949265078e-06
+   z-axis:
+      gyr_n: 4.3572395210613492e-05
+      gyr_w: 2.6240632514011240e-09
+Acc:
+   unit: "acc_n: m / s^2 / sqrt(Hz), acc_w: m / s^3 / sqrt(Hz)"
+   avg-axis:
+      acc_n: 9.6486914896041723e-03
+      acc_w: 1.2526364453551734e-03
+   x-axis:
+      acc_n: 1.4589631733832682e-03
+      acc_w: 4.9517328790709228e-06
+   y-axis:
+      acc_n: 3.0889363417817206e-03
+      acc_w: 2.7842437016861303e-05
+   z-axis:
+      acc_n: 2.4398174953647527e-02
+      acc_w: 3.7251151661695878e-03
